@@ -8,7 +8,9 @@ function CardHead(props) {
     <spam className="firstnote">{firstnote}</spam><br/>
     <spam className="secondnote">{secondnote}</spam>
     <br/>
-    <spam className="nameOfCouple">{props.name}</spam>
+    <spam className="nameOfCouple">{props.name}</spam><br/>
+
+    <div className="invite">INVITE YOU TO CELEBRATE<br/><spam className="invSecondLine">THEIR WEDDING DAY</spam></div>
     </>
   )
 }

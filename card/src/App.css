@@ -10,6 +10,7 @@ body {
   justify-content: center;
   font-size: x-large;
   font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .firstnote {
   font-size: larger;
@@ -18,6 +19,7 @@ body {
   justify-content: center;
   font-size: larger;
   font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .nameOfCouple{
   display: flex;
@@ -26,4 +28,17 @@ body {
   font-size: xx-large;
   margin-top: 1%;
   color: rgb(235, 61, 61);
+}
+.invite{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: larger;
+  margin-left: 42%;
+  margin-top: 1%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.invSecondLine{
+  margin-left: 2.5%;
+  
 }

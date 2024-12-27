@@ -8,6 +8,7 @@ const note={
 const name= "DAVID & MARRY";
 
 
+
 function Cardmain() {
   return (
     <CardHead  note={note} name={name}/>
