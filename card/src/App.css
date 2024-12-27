@@ -42,3 +42,33 @@ body {
   margin-left: 2.5%;
   
 }
+.time{
+  display: flex;
+  margin-top: 1%;
+  justify-content: center;
+  font-size: xx-large;
+  color: blue;
+}
+.description{
+  margin-top: 3%;
+  font-size: larger;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: brown;
+}
+.descriptionOne{
+  margin-left: 41%;
+  
+}
+.descriptionTwo{
+  margin-left: 40%;
+}
+.descriptionThree{
+  margin-left: 39.5%;
+}
+.end{
+  margin-top: 4%;
+  display: flex;
+  justify-content: center;
+  font-size: x-large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
