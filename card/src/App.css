@@ -1,0 +1,29 @@
+body {
+  margin: 2%;
+  padding: 2%;
+  background-image: url(../public/image/background\ img.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+.secondnote {
+  display: flex;
+  justify-content: center;
+  font-size: x-large;
+  font-weight: bold;
+}
+.firstnote {
+  font-size: larger;
+  display: flex;
+  margin-top: 2%;
+  justify-content: center;
+  font-size: larger;
+  font-weight: bold;
+}
+.nameOfCouple{
+  display: flex;
+  justify-content: center;
+  font-family: cursive;
+  font-size: xx-large;
+  margin-top: 1%;
+  color: rgb(235, 61, 61);
+}
